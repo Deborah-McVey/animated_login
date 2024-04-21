@@ -7,7 +7,11 @@ https://codepen.io/ajay-dhangar/pen/YzgPBWd
 https://apipheny.io/free-api/
 https://randomuser.me/api/
 
+localhost:4200/login
+
 Bootstrap 5 Colored Navbar for layout: https://www.w3schools.com/bootstrap5/bootstrap_navbar.php
+
+localhost:4200/dashboard
 
 Video 2. "Angular 17 Login with JWT token | With API | Angular Interceptor" by Learning Partner
 https://www.youtube.com/watch?v=mWERmpulRIw

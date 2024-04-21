@@ -7,6 +7,11 @@ export const routes: Routes = [
       pathMatch: 'full'
     },  //when you go to localhost:4200, you are redirected to localhost:4200/login
     {
+      path: '**',
+      redirectTo: 'login',
+      pathMatch: 'full'  //if you type random characters after localhost:4200, you are redirected to localhost:4200/login
+    },
+    {
       path: 'login',
       loadComponent: () => import('./login/login.component').then((c) => c.LoginComponent)
     },

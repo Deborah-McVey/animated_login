@@ -7,6 +7,8 @@ https://codepen.io/ajay-dhangar/pen/YzgPBWd
 https://apipheny.io/free-api/
 https://randomuser.me/api/
 
+components: login, layout, dashboard
+
 localhost:4200/login
 
 Bootstrap 5 Colored Navbar for layout: https://www.w3schools.com/bootstrap5/bootstrap_navbar.php
